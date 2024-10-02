@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bem Vindo ao meu Github 👋
+
+## Conhecimentos
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
 
 <!--
 **Samuuuca/Samuuuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
