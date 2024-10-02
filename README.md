@@ -1,9 +1,25 @@
-## Bem Vindo ao meu Github 👋
+# Bem vindo ao meu Github 🚀
+
+Atualmente no 6º semestre de Ciência da Computação
 
 ## Conhecimentos
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-</div>
+
+- NodeJS
+    - Javascript
+    - React
+- Java
+    - MVC
+    - MVP
+- Banco de Dados
+    - SQL
+    - MariaDB
+    - Firebase 
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/samuel-delphino-67325418a)
 
 
 <!--
