@@ -1,6 +1,6 @@
 # Bem vindo ao meu Github 🚀
 
-- 🏫 Atualmente no 6º semestre de Ciência da Computação
+- 🏫 Formado em Ciência da Computação
 - 🌱 Buscanso aprender C#
 
 ## Conhecimentos
