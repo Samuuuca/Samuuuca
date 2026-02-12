@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHh4eXh4eXh4eXh4eXh4eXh4eXh4eXh4eXh4eXh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZklmJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif"  />
   <h1>Olá, eu sou o Samuel! 👋</h1>
   <p><strong>Desenvolvedor Full Stack | Bacharel em Ciência da Computação</strong></p>
 </div>
