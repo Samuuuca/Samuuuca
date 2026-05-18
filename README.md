@@ -20,7 +20,7 @@
 | Categoria | Stack |
 | :--- | :--- |
 | **Linguagens** | Python, TypeScript, JavaScript |
-| **Backend** | FastAPI, Node.js |
+| **Backend** | FastAPI, Node.js, Java |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Banco de Dados** | MySQL, SQLite, PostgreSQL |
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -53,7 +55,7 @@
 
 ### 📫 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/samuel-delphino-67325418a/" target="_blank">
+<a href="https://www.linkedin.com/in/samueldelphino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
 <a href="mailto:samueldelphino12@gmail.com">
